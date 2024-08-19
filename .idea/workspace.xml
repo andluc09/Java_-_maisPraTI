@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9fff7152-a550-4e45-91b1-2dff18916f96" name="Changes" comment="" />
+=======
+    <list default="true" id="9fff7152-a550-4e45-91b1-2dff18916f96" name="Changes" comment="Formação em JAVA e SpringBoot - Trilha Dev Full Stack Jr. ( +praTI )">
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/lesson1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/DataHora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/atividade1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/atividade2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/atividade3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/atividade4.java" beforeDir="false" />
+    </list>
+>>>>>>> 8f772db0a4a97342378d7880a8f97e87fca98df9
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +38,11 @@
         <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Java ☕ +praTI" />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> 8f772db0a4a97342378d7880a8f97e87fca98df9
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProblemsViewState">
@@ -34,6 +56,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -43,6 +66,17 @@
     "last_opened_file_path": "C:/Users/André Lucas/OneDrive/JAVA - Lifelong Learning/+PraTi/Modulo_5/Java"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/André Lucas/OneDrive/JAVA - Lifelong Learning/+PraTi/Modulo_5/Java_-_praTI&quot;
+  }
+}</component>
+>>>>>>> 8f772db0a4a97342378d7880a8f97e87fca98df9
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,6 +126,7 @@
       <option name="project" value="LOCAL" />
       <updated>1724091182426</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00006" summary="Formação em JAVA e SpringBoot - Trilha Dev Full Stack Jr. ( +praTI )">
       <option name="closed" value="true" />
       <created>1724091917598</created>
@@ -117,6 +152,9 @@
       <updated>1724092821058</updated>
     </task>
     <option name="localTasksCounter" value="9" />
+=======
+    <option name="localTasksCounter" value="6" />
+>>>>>>> 8f772db0a4a97342378d7880a8f97e87fca98df9
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
