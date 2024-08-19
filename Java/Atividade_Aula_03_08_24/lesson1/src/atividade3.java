@@ -1,4 +1,4 @@
-package Java_maisPraTI.Atividade_Aula_03_08_24.lesson1.src;
+package Java.Atividade_Aula_03_08_24.lesson1.src;
 
 import java.util.Scanner;
 
