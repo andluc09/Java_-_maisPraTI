@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fff7152-a550-4e45-91b1-2dff18916f96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="9fff7152-a550-4e45-91b1-2dff18916f96" name="Changes" comment="Formação em JAVA e SpringBoot - Trilha Dev Full Stack Jr. ( +praTI )">
+      <change afterPath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java ☕ +praTI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/lesson1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/DataHora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/atividade1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/atividade2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/atividade3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1/src/atividade4.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +38,7 @@
         <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Atividade_-_Aula_03-08-24/lesson1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProblemsViewState">
@@ -46,9 +55,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/André Lucas/OneDrive/JAVA - Lifelong Learning/+PraTi/Modulo_5/Java ☕ +praTI"
+    "last_opened_file_path": "C:/Users/André Lucas/OneDrive/JAVA - Lifelong Learning/+PraTi/Modulo_5/Java_-_praTI"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724090642393</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Formação em JAVA e SpringBoot - Trilha Dev Full Stack Jr. ( +praTI )">
+      <option name="closed" value="true" />
+      <created>1724091110377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724091110377</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Formação em JAVA e SpringBoot - Trilha Dev Full Stack Jr. ( +praTI )">
+      <option name="closed" value="true" />
+      <created>1724091182426</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724091182426</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
