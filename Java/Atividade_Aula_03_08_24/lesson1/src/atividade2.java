@@ -3,8 +3,6 @@ package Java.Atividade_Aula_03_08_24.lesson1.src;
 import java.util.Scanner;
 
 public class atividade2 {
-    public atividade2() {
-    }
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

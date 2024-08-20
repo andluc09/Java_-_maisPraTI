@@ -4,8 +4,6 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class DataHora {
-    public DataHora() {
-    }
 
     public static void main(String[] args) {
         LocalDateTime currentDateTime = LocalDateTime.now();
