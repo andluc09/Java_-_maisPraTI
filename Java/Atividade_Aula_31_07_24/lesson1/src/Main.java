@@ -1,4 +1,4 @@
-package Java.Atividade_Aula_31_07_24.lesson1.src.lesson1;
+package Java.Atividade_Aula_31_07_24.lesson1.src;
 
 import java.util.Locale;
 import java.util.Scanner;
