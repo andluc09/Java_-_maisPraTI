@@ -26,21 +26,15 @@ Para executar o projeto localmente, siga estes passos:
     cd Java_-_maisPraTI/Java/Lista_Estrutura_de_Dados
     ```
 
-3. Crie o diretório `bin` para os arquivos compilados:
+3. Compile o projeto:
 
     ```bash
-    mkdir -p bin
-    ```
-
-4. Compile o projeto:
-
-    ```bash
-    javac -d bin -sourcepath src src/Java/Lista_Estrutura_de_Dados/Main.java
+    javac Main.java
     ```
 
 5. Execute o projeto:
 
     ```bash
-    java -cp bin Java.Lista_Estrutura_de_Dados.Main
+    java Main
     ```
 
