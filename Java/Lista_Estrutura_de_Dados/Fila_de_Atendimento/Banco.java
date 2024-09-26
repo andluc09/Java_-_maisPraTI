@@ -20,4 +20,16 @@ public class Banco {
             System.out.println("Nenhum cliente na fila.");
         }
     }
+
+    // Lista todos os clientes na fila
+    public void listarClientes() {
+        if (filaClientes.isEmpty()) {
+            System.out.println("Nenhum cliente na fila.");
+        } else {
+            System.out.println("Clientes na fila:");
+            for (String cliente : filaClientes) {
+                System.out.println("- " + cliente);
+            }
+        }
+    }
 }

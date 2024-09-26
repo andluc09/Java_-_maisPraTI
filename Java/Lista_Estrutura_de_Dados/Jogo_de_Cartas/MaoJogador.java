@@ -22,6 +22,7 @@ public class MaoJogador {
         Carta atual = primeira;
         while (atual != null) {
             if (atual.nome.equals(nome)) {
+                // A carta foi encontrada, removendo-a
                 if (atual == primeira) {
                     primeira = atual.proxima;
                     if (primeira != null) primeira.anterior = null;
@@ -32,10 +33,13 @@ public class MaoJogador {
                     atual.anterior.proxima = atual.proxima;
                     atual.proxima.anterior = atual.anterior;
                 }
+                System.out.println("Carta '" + nome + "' removida com sucesso.");
                 return;
             }
             atual = atual.proxima;
         }
+        // Se a carta não for encontrada
+        System.out.println("Carta não encontrada!");
     }
 
     // Exibe a mão do jogador

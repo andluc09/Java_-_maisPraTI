@@ -11,6 +11,7 @@ public class EditorTextoDuplo {
             novaAcao.anterior = atual;
         }
         atual = novaAcao;
+        System.out.println("\nAção realizada: " + atual.descricao);
     }
 
     // Desfaz a última ação
@@ -30,6 +31,20 @@ public class EditorTextoDuplo {
             System.out.println("Refazendo: " + atual.descricao);
         } else {
             System.out.println("Nada para refazer.");
+        }
+    }
+
+    // Exibe o histórico de ações
+    public void exibirHistorico() {
+        if (atual == null) {
+            System.out.println("Não foi encontrada nenhuma ação!");
+        }
+
+        AcaoDupla temp = atual; // Começa do atual
+        // Percorre para trás até a primeira ação
+        while (temp != null) {
+            System.out.println(temp.descricao);
+            temp = temp.anterior;
         }
     }
 }

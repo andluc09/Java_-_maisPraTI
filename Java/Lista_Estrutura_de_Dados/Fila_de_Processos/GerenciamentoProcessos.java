@@ -20,5 +20,17 @@ public class GerenciamentoProcessos {
             System.out.println("Nenhum processo para executar.");
         }
     }
+
+    // Lista todos os processos na fila
+    public void listarProcessos() {
+        if (filaProcessos.isEmpty()) {
+            System.out.println("Nenhum processo na fila.");
+        } else {
+            System.out.println("Processos na fila:");
+            for (String processo : filaProcessos) {
+                System.out.println("- " + processo);
+            }
+        }
+    }
 }
 

@@ -59,4 +59,16 @@ public class GerenciadorDeTarefas {
             atual = atual.proxima;
         }
     }
+
+    // Busca uma tarefa pela descrição
+    public boolean buscarTarefa(String descricao) {
+        Tarefa atual = primeira;
+        while (atual != null) {
+            if (atual.descricao.equals(descricao)) {
+                return true;  // A tarefa foi encontrada
+            }
+            atual = atual.proxima;
+        }
+        return false;  // A tarefa não foi encontrada
+    }
 }
