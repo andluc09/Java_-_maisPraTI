@@ -29,7 +29,5 @@ public class MainProduto {
 
         System.out.println("\nPreço atualizado: " + produto.getPreco());
         System.out.println("\nQuantidade em estoque atualizada: " + produto.getQuantidadeEstoque());
-
-        scanner.close();
     }
 }

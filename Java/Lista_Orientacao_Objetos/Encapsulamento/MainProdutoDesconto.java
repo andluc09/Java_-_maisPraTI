@@ -28,8 +28,6 @@ public class MainProdutoDesconto {
         } catch (IllegalArgumentException e) {
             System.out.println("\nErro ao aplicar desconto: " + e.getMessage());
         }
-
-        scanner.close();
     }
 }
 
